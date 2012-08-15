@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExampleApp</key>
+	<dict>
+		<key>AppMD5</key>
+		<string>0cbc6611f5540bd0809a388dc95a615b</string>
+		<key>MinimumOS</key>
+		<string>10.6</string>
+		<key>AppVersion</key>
+		<string>1.0</string>
+		<key>AppURL</key>
+		<string>http://somesite.com/download/application.zip</string>
+		<key>AppDescription</key>
+		<array>
+			<string>• Point 1</string>
+			<string>• Point 2</string>
+			<string>• Point 3</string>
+			<string>• Point 4</string>
+			<string>• Point 5</string>
+		</array>
+	</dict>
+</dict>
+</plist>
