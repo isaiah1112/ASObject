@@ -6,7 +6,7 @@
 * ToDo - OAuth methods now work with Google, Facebook, and Twitter
 * ToDo - Sys_Log method for sending messages to system log
 
-0.8.1 Released on //
+0.8.1 Released on 8/28/12
 
 * Workaround - Bug with keychain scripting in 10.7 and later
 * Fixed - Bug with Previous_Application method
