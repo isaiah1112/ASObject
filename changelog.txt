@@ -1,13 +1,17 @@
 ----- TwitterScript for OSX Changelog -----
 
-0.9 Released on //
-
 * ToDo - ASObject Library is now split into different categories.
 * ToDo - OAuth methods now work with Google, Facebook, and Twitter
-* ToDo - Sys_Log method for sending messages to system log
+
+0.9 Released on //
+
+* Added - Sys_Log method for sending messages to system log
+* Added - Regex_Check method for doing regex using grep
+* Added - Pop method for removing an item from a list
 * Removed - Read_Log_File method
 * Removed - Keychain Methods
 * Removed - SQL Lite Methods
+
 
 0.8.1 Released on 8/28/12
 
