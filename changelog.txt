@@ -10,12 +10,18 @@
 * Added - Regex_Sed method for doing regex using sed
 * Added - Pop method for removing an item from a list
 * Added - Ability to set date format in Get_Formatted_Date (including default)
+* Updated - Parse_Arguments method now returns record with proper keys and values!
+* Updated - Split_Every method now accepts string first and number of characters to split by second.
 * Fixed - Bug in Write_To_Log method when not rolling logs
+* Renamed - Get_Record_Properties to Get_Record_Keys
 * Removed - Read_Log_File method
 * Removed - Open_Log_File method
 * Removed - Keychain Methods
 * Removed - SQL Lite Methods
-
+* Removed - Auto install of ASObject
+* Removed - Auto install portion of Check_For_Update method
+* Optimized code
+* Misc bug fixes
 
 0.8.1 Released on 8/28/12
 
