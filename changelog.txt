@@ -1,4 +1,4 @@
------ TwitterScript for OSX Changelog -----
+----- ASObject Changelog -----
 
 * ToDo - ASObject Library is now split into different categories.
 * ToDo - OAuth methods now work with Google, Facebook, and Twitter
@@ -12,6 +12,8 @@
 * Added - Ability to set date format in Get_Formatted_Date (including default)
 * Updated - Parse_Arguments method now returns record with proper keys and values!
 * Updated - Split_Every method now accepts string first and number of characters to split by second.
+* Updated - check_for_update method now does not accept argstring
+* Updated - check_for_update method puts downloads in ~/Downloads folder if it exists
 * Fixed - Bug in Write_To_Log method when not rolling logs
 * Renamed - Get_Record_Properties to Get_Record_Keys
 * Removed - Read_Log_File method
@@ -22,6 +24,7 @@
 * Removed - Auto install portion of Check_For_Update method
 * Optimized code
 * Misc bug fixes
+* NOTE: We are no longer pushing bug fixes back to older versions.
 
 0.8.1 Released on 8/28/12
 
