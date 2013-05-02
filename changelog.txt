@@ -15,6 +15,7 @@
 * Updated - check_for_update method now does not accept argstring
 * Updated - check_for_update method puts downloads in ~/Downloads folder if it exists
 * Fixed - Bug in Write_To_Log method when not rolling logs
+* Fixed - trim method now catches tab characters too
 * Renamed - Get_Record_Properties to Get_Record_Keys
 * Removed - Read_Log_File method
 * Removed - Open_Log_File method
