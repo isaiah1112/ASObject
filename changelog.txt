@@ -7,6 +7,10 @@
 
 * Added - Regex_Egrep method for quickly finding text patterns using regex
 
+0.9.1 Released on //
+
+* Fixed - Auto install error in Check_For_Update method
+
 0.9 Released on //
 
 * Added - Sys_Log method for sending messages to system log
