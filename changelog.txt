@@ -3,7 +3,11 @@
 * ToDo - ASObject Library is now split into different categories.
 * ToDo - OAuth methods now work with Google, Facebook, and Twitter
 
-0.9 Released on //
+0.9.1 Released on //
+
+* Fixed - Auto install error in Check_For_Update method
+
+0.9 Released on 5/23/13
 
 * Added - Sys_Log method for sending messages to system log
 * Added - Regex_Grep method for doing regex using grep
