@@ -3,6 +3,10 @@
 * ToDo - ASObject Library is now split into different categories.
 * ToDo - OAuth methods now work with Google, Facebook, and Twitter
 
+1.0 Released on //
+
+* Added - Regex_Egrep method for quickly finding text patterns using regex
+
 0.9 Released on //
 
 * Added - Sys_Log method for sending messages to system log
