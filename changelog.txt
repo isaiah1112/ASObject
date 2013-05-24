@@ -6,6 +6,8 @@
 1.0 Released on //
 
 * Added - Regex_Egrep method for quickly finding text patterns using regex
+* Added - Pop_Last method
+* Added - Pop_item method for popping item number x from list
 
 0.9.1 Released on //
 
