@@ -9,11 +9,11 @@
 * Added - Pop_Last method
 * Added - Pop_item method for popping item number x from list
 
-0.9.1 Released on //
+0.9.1 Released on 6/7/13
 
 * Fixed - Auto install error in Check_For_Update method
 
-0.9 Released on //
+0.9 Released on 5/23/13
 
 * Added - Sys_Log method for sending messages to system log
 * Added - Regex_Grep method for doing regex using grep
