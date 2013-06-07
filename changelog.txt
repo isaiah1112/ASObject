@@ -3,7 +3,7 @@
 * ToDo - ASObject Library is now split into different categories.
 * ToDo - OAuth methods now work with Google, Facebook, and Twitter
 
-0.9.1 Released on //
+0.9.1 Released on 6/7/13
 
 * Fixed - Auto install error in Check_For_Update method
 
