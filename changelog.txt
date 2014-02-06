@@ -8,6 +8,11 @@
 * Added - Regex_Grep_Select method for quickly finding text patterns using regex
 * Added - Pop_Last method
 * Added - Pop_item method for popping item number x from list
+* Added - Make_Record method for creating new dynamic records
+* Added - Random_Subset method for getting random characters from a string
+* Added - Build_Nonce method for OAuth requests.
+* Added - OAuth_Property_List_To_HTTP_Header_List method to make OAuth header building easier and more accurate
+* Fixed - Bugs in OAuth_Request, Build_Base_Url
 
 0.9.1 Released on 6/7/13
 
