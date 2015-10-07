@@ -1,10 +1,11 @@
 ----- ASObject Changelog -----
 
-* ToDo - ASObject Library is now split into different categories.
-* ToDo - OAuth methods now work with Google, Facebook, and Twitter
+* ToDo - Split ASObject into sub-modules
+* ToDo - Get OAuth methods working with Facebook and Google in addition to Twitter
 
 1.0 Released on //
 
+* Added - Docstrings to every method
 * Added - Regex_Grep_Select method for quickly finding text patterns using regex
 * Added - Pop_Last method
 * Added - Pop_item method for popping item number x from list
@@ -12,7 +13,8 @@
 * Added - Random_Subset method for getting random characters from a string
 * Added - Build_Nonce method for OAuth requests.
 * Added - OAuth_Property_List_To_HTTP_Header_List method to make OAuth header building easier and more accurate
-* Fixed - Bugs in OAuth_Request, Build_Base_Url
+* Fixed - Bugs in OAuth_Request
+* Fixed - Bugs in Build_Base_Url
 
 0.9.1 Released on 6/7/13
 
