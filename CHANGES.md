@@ -15,6 +15,7 @@
 * Added - OAuth_Property_List_To_HTTP_Header_List method to make OAuth header building easier and more accurate
 * Fixed - Bugs in OAuth_Request
 * Fixed - Bugs in Build_Base_Url
+* Removed - ASObject_Properties method
 
 0.9.1 Released on 6/7/13
 
@@ -87,8 +88,6 @@
 * Added Make_Trim method
 * Added Remove_Quotes method
 
-0.6.6 Released on //
-
 0.6.5 Released on 4/14/10
 
 * Bug fixes in Make_IsGd method
@@ -156,14 +155,6 @@
 0.5.3 Released on 10/31/09
 
 * Bug fixes to curl_download method
-
-0.5.2
-
-MISSING
-
-0.5.1
-
-MISSING
 
 0.5 Released on 4/19/09
 
