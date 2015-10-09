@@ -16,6 +16,7 @@
 * Fixed - Bugs in OAuth_Request
 * Fixed - Bugs in Build_Base_Url
 * Removed - ASObject_Properties method
+* Updated - pop method is now remove_items
 
 0.9.1 Released on 6/7/13
 
