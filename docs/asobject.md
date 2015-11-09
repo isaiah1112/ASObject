@@ -1,4 +1,4 @@
-# ASObject::
+# ASObject
 
  An AppleScript Library that extends AppleScript using pure AppleScript
 
@@ -19,7 +19,7 @@
 
 
 
-## Properties::
+## Properties
 
 \_\_name\_\_ : "ASObject.scpt"
 
@@ -34,7 +34,7 @@
 debug : true
 
 
-## Functions::
+## Functions
 
 **run**()
 
