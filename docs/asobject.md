@@ -21,7 +21,7 @@
 
 ## Properties
 
-\_\_name\_\_ : "ASObject.scpt"
+\_\_file\_\_ : "ASObject.scpt"
 
 \_\_version\_\_ : "1.0"
 
