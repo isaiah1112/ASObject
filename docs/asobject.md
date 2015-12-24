@@ -19,13 +19,23 @@
 
 
 
+## TODOs
+
+ Move Write_To_Log to use kwargs
+
+ Move Scale_Image to use kwargs
+
+ Move rotate_image to use kwargs
+
+ Move curl to use kwargs
+
+ Move Kill_Process to use kwargs
+
+ Move Get_Formatted_Date to use kwargs and combine with timeStamp
+
+
 ## Properties
 
-\_\_file\_\_ : "ASObject.scpt"
-\_\_version\_\_ : "1.0"
-\_\_author\_\_ : "Jesse Almanrode (jesse@almanrode.com)"
-\_\_oauth\_plist\_\_ : "~/Library/Preferences/ASObject.OAuth.plist"
-\_\_update\_plist\_\_ : "http://www.jacomputing.net/direct\_download/net.jacomputing.softwareupdate.plist"
 debug : true
 
 
