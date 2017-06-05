@@ -1,4 +1,4 @@
-![ASObject](http://www.jacomputing.net/direct_download/ASObject.png)
+![ASObject](http://jacomputing.net/direct_download/ASObject.png)
 
 ## Overview
 
