@@ -1,9 +1,7 @@
------ ASObject Changelog -----
+* TODO - Split ASObject into sub-modules
+* TODO - Get OAuth methods working with Facebook and Google in addition to Twitter
 
-* ToDo - Split ASObject into sub-modules
-* ToDo - Get OAuth methods working with Facebook and Google in addition to Twitter
-
-1.0 Released on //
+## Release 1.0
 
 * Added - Docstrings to every method
 * Added - Regex_Grep_Select method for quickly finding text patterns using regex
@@ -17,11 +15,11 @@
 * Fixed - Bugs in Build_Base_Url
 * Removed - ASObject_Properties method
 
-0.9.1 Released on 6/7/13
+## Release 0.9.1
 
 * Fixed - Auto install error in Check_For_Update method
 
-0.9 Released on 5/23/13
+## Release 0.9
 
 * Added - Sys_Log method for sending messages to system log
 * Added - Regex_Grep method for doing regex using grep
@@ -45,13 +43,13 @@
 * Misc bug fixes
 * NOTE: We are no longer pushing bug fixes back to older versions.
 
-0.8.1 Released on 8/28/12
+## Release 0.8.1
 
 * Workaround - Bug with keychain scripting in 10.7 and later
 * Fixed - Bug with Previous_Application method
 * Added - Write_To_Log method now logs to system log file as well as specified file
 
-0.8 Released on 11/2/10
+## Release 0.8
 
 * Added - SHA1_String method for digesting strings via SHA1 algorithm
 * Added - rollLog property to Write_To_Log method for rolling log file with date or writing to single log file
@@ -70,11 +68,11 @@
 * Added - BINARY_OPERATOR for performing bitwise OR or AND operations
 * Added - OAuth_Echo method for building an oath echo http header (supports both xml and son)
 
-0.7.1 Released on 6/29/10
+## Release 0.7.1
 
 * Improved speed of Check_For_Update method
 
-0.7 Released on 4/19/10
+## Release 0.7
 
 * Added bit.ly URL shortening... requires username and api key!
 * Removed Set_Twitter_Status method
@@ -88,7 +86,7 @@
 * Added Make_Trim method
 * Added Remove_Quotes method
 
-0.6.5 Released on 4/14/10
+## Release 0.6.5
 
 * Bug fixes in Make_IsGd method
 * Bug fixes in Make_TinyURL method
@@ -97,27 +95,27 @@
 * Removed if statement if update for ASObject is not available!
 * Bug fixes in New_Plist method under 10.4
 
-0.6.4 Released on 4/2/10
+## Release 0.6.4
 
 * Bug fixes in store_username method
 * Bug fixes in store_password method
 
-0.6.3 Released on 3/29/10
+## Release 0.6.3
 
 * Bug fixes in curl method when placing url in quotes
 * Removed internal build number since it really means nothing
 
-0.6.2 Released on 3/11/10
+## Release 0.6.2
 
 * Support for images specified via posix path OR apple path in Image processing macros
 * Bug fixes in Get_Proxy_Settings. If it errors it assumes no proxy specified!
 * Bug fixes in HTML_TO_ASCII method
 
-0.6.1 Released on 1/14/10
+## Release 0.6.1
 
 * Bug fixes in HTML_TO_ASCII method when x is a null character
 
-0.6 Released on 1/1/10
+## Release 0.6
 
 * Added To_Upper method
 * Added To_Lower method
@@ -145,18 +143,18 @@
 * Added Store_Password method
 * Added Make_Keychain_Item method
 
-0.5.4 Released on 4/14/10
+## Release 0.5.4
 
 * Using System Events for Is_Running method
 * Kill_Process now returns string value
 * Removed if statement if update for ASObject is not available!
 * Bug fixes in New_Plist method under 10.4
 
-0.5.3 Released on 10/31/09
+## Release 0.5.3
 
 * Bug fixes to curl_download method
 
-0.5 Released on 4/19/09
+## Release 0.5
 
 * Added New_Plist method
 * Addition of argument string to DB_Insert method
@@ -168,5 +166,6 @@
 * Rewrote Check_For_Update method
 * Addition of reply-to field in Mail_Sendmail method
 
------ NOTES -----
-THERE IS NO CHANGELOG FOR VERSIONS OF ASOBJECT BEFORE 0.5 BECAUSE I WAS NOT KEEPING AN OFFICIAL CHANGELOG! SORRY FOR THE INCONVENIENCE. IF YOU WOULD LIKE AN OLDER VERSION OF ASOBJECT TO COMPARE THEM YOURSELF PLEASE EMAIL ME!
+## Notes
+There are no release notes for versions prior to 0.5 because I was not keeping an official changelog nor was I using any
+sort of version control.  Sorry for the inconvenience.
