@@ -1,6 +1,9 @@
 * TODO - Split ASObject into sub-modules
 * TODO - Get OAuth methods working with Facebook and Google in addition to Twitter
 
+## Hotfix v1.0.1
+ * Fixing copyright and removing debug. [aa4c5c4]
+
 ## Release v1.0
 
 * Added - Docstrings to every method
