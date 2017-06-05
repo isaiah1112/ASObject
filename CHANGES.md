@@ -1,7 +1,7 @@
 * TODO - Split ASObject into sub-modules
 * TODO - Get OAuth methods working with Facebook and Google in addition to Twitter
 
-## Release 1.0
+## Release v1.0
 
 * Added - Docstrings to every method
 * Added - Regex_Grep_Select method for quickly finding text patterns using regex
@@ -15,11 +15,11 @@
 * Fixed - Bugs in Build_Base_Url
 * Removed - ASObject_Properties method
 
-## Release 0.9.1
+## Release v0.9.1
 
 * Fixed - Auto install error in Check_For_Update method
 
-## Release 0.9
+## Release v0.9
 
 * Added - Sys_Log method for sending messages to system log
 * Added - Regex_Grep method for doing regex using grep
@@ -43,13 +43,13 @@
 * Misc bug fixes
 * NOTE: We are no longer pushing bug fixes back to older versions.
 
-## Release 0.8.1
+## Release v0.8.1
 
 * Workaround - Bug with keychain scripting in 10.7 and later
 * Fixed - Bug with Previous_Application method
 * Added - Write_To_Log method now logs to system log file as well as specified file
 
-## Release 0.8
+## Release v0.8
 
 * Added - SHA1_String method for digesting strings via SHA1 algorithm
 * Added - rollLog property to Write_To_Log method for rolling log file with date or writing to single log file
@@ -68,11 +68,11 @@
 * Added - BINARY_OPERATOR for performing bitwise OR or AND operations
 * Added - OAuth_Echo method for building an oath echo http header (supports both xml and son)
 
-## Release 0.7.1
+## Release v0.7.1
 
 * Improved speed of Check_For_Update method
 
-## Release 0.7
+## Release v0.7
 
 * Added bit.ly URL shortening... requires username and api key!
 * Removed Set_Twitter_Status method
@@ -86,7 +86,7 @@
 * Added Make_Trim method
 * Added Remove_Quotes method
 
-## Release 0.6.5
+## Release v0.6.5
 
 * Bug fixes in Make_IsGd method
 * Bug fixes in Make_TinyURL method
@@ -95,27 +95,27 @@
 * Removed if statement if update for ASObject is not available!
 * Bug fixes in New_Plist method under 10.4
 
-## Release 0.6.4
+## Release v0.6.4
 
 * Bug fixes in store_username method
 * Bug fixes in store_password method
 
-## Release 0.6.3
+## Release v0.6.3
 
 * Bug fixes in curl method when placing url in quotes
 * Removed internal build number since it really means nothing
 
-## Release 0.6.2
+## Release v0.6.2
 
 * Support for images specified via posix path OR apple path in Image processing macros
 * Bug fixes in Get_Proxy_Settings. If it errors it assumes no proxy specified!
 * Bug fixes in HTML_TO_ASCII method
 
-## Release 0.6.1
+## Release v0.6.1
 
 * Bug fixes in HTML_TO_ASCII method when x is a null character
 
-## Release 0.6
+## Release v0.6
 
 * Added To_Upper method
 * Added To_Lower method
@@ -143,18 +143,18 @@
 * Added Store_Password method
 * Added Make_Keychain_Item method
 
-## Release 0.5.4
+## Release v0.5.4
 
 * Using System Events for Is_Running method
 * Kill_Process now returns string value
 * Removed if statement if update for ASObject is not available!
 * Bug fixes in New_Plist method under 10.4
 
-## Release 0.5.3
+## Release v0.5.3
 
 * Bug fixes to curl_download method
 
-## Release 0.5
+## Release v0.5
 
 * Added New_Plist method
 * Addition of argument string to DB_Insert method
